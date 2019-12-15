@@ -15,6 +15,9 @@ namespace NancyStandalone
                 Console.WriteLine("Press enter to exit the application");
                 Console.WriteLine("HMMMMMM");
                 Console.WriteLine("HMMMMMMX2");
+
+
+
                 Console.ReadLine();
             }
         }
